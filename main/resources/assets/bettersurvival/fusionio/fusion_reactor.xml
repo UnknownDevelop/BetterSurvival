@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<FusionIO>
+	<Page page="0">
+		<Component x="0" y="0" id="0" type="Text">
+			<Text>FusionIO 1.0</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="114" y="0" id="1" type="Text">
+			<Text>/LOG</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="10" id="2" type="ClickableText">
+			<Text>LOG</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="45" y="10" id="3" type="ClickableText">
+			<Text>CONTROL</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="108" y="10" id="4" type="ClickableText">
+			<Text>STATE</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="0" y="20" id="5" type="Image">
+			<Filepath>bettersurvival:textures/fusionio/fusion_reactor/list_background.png</Filepath>
+			<Size>138 115</Size>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+		<Component x="1" y="125" id="6" type="Text">
+			<Text></Text>
+			<Color>r=255 g=255 b=255</Color>
+			<AnchorY>Bottom</AnchorY>
+			<MaxLines>12</MaxLines>
+		</Component>
+	</Page>
+	<Page page="1">
+		<Component x="0" y="0" id="0" type="Text">
+			<Text>FusionIO 1.0</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="90" y="0" id="1" type="Text">
+			<Text>/CONTROL</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="10" id="2" type="ClickableText">
+			<Text>LOG</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="45" y="10" id="3" type="ClickableText">
+			<Text>CONTROL</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="108" y="10" id="4" type="ClickableText">
+			<Text>STATE</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="0" y="20" id="8" type="Text">
+			<Text>Status</Text>
+			<Color>r=128 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="35" id="9" type="ClickableText" group="0">
+			<Text>Shutdown</Text>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+		<Component x="0" y="45" id="10" type="ClickableText" group="0">
+			<Text>Force Shutdown</Text>
+			<Color>r=255 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="35" id="11" type="ClickableText">
+			<Text>Boot Reactor</Text>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+		<Component x="0" y="65" id="13" type="Text" group="0">
+			<Text>Temperature</Text>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+		<Component x="0" y="75" id="14" type="Text" group="0">
+			<Text>Cell Status</Text>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+	</Page>
+	<Page page="2">
+		<Component x="0" y="0" id="0" type="Text">
+			<Text>FusionIO 1.0</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="102" y="0" id="1" type="Text">
+			<Text>/STATE</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="10" id="2" type="ClickableText">
+			<Text>LOG</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="45" y="10" id="3" type="ClickableText">
+			<Text>CONTROL</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+		<Component x="108" y="10" id="4" type="ClickableText">
+			<Text>STATE</Text>
+			<Color>r=0 g=0 b=255</Color>
+		</Component>
+	</Page>
+	<Page page="3">
+		<Component x="0" y="0" id="7" type="Text">
+			<Text>Reactor unusable.</Text>
+			<Color>r=255 g=0 b=0</Color>
+		</Component>
+	</Page>
+	<Page page="4">
+		<Component x="0" y="0" id="0" type="Text">
+			<Text>FusionIO 1.0</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="90" y="0" id="1" type="Text">
+			<Text>/CONTROL</Text>
+			<Color>r=0 g=0 b=0</Color>
+		</Component>
+		<Component x="0" y="10" id="2" type="Text">
+			<Text>LOG</Text>
+			<Color>r=128 g=128 b=128</Color>
+		</Component>
+		<Component x="45" y="10" id="3" type="Text">
+			<Text>CONTROL</Text>
+			<Color>r=128 g=128 b=128</Color>
+		</Component>
+		<Component x="108" y="10" id="4" type="Text">
+			<Text>STATE</Text>
+			<Color>r=128 g=128 b=128</Color>
+		</Component>
+		<Component x="0" y="20" id="12" type="Text">
+			<Text>Booting reactor... 0%</Text>
+			<Color>r=255 g=255 b=255</Color>
+		</Component>
+	</Page>
+</FusionIO>
