@@ -1,0 +1,6 @@
+{
+	"geiger_counter": {"category": "master", "sounds": ["geiger_counter_01", "geiger_counter_02"]},
+	"auto_turret_dry": {"category": "master", "sounds": ["auto_turret_dry_fire"]},
+	"auto_turret_9mm" : {"category": "master", "sounds": ["auto_turret_9mm"]},
+	"auto_turret_762" : {"category": "master", "sounds": ["auto_turret_762"]}
+}

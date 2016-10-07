@@ -1,0 +1,25 @@
+[
+{
+  "modid": "bettersurvival",
+  "name": "Better Survival",
+  "description": "A mod adding electricity, tribes and other stuff.
+
+Credits:
+Programming: Unknown Soldier
+Texturing: Unknown Soldier
+Recipes: Unknown Soldier, Echelon
+Ideas: Unknown Soldier, Echelon, MrMinecraftNews, Militancy, TheSerg
+Betatesting & Bugfinding: Unknown Soldier, Militancy, TheSerg
+
+Thanks to Java for hating me all the time.",
+  "version": "A0.5Eu1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Unknown Soldier", "Echelon", "MrMinecraftNews"],
+  "credits": "To be seen elsewhere...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
